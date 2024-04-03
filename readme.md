@@ -22,8 +22,9 @@ A aplicação consiste em um sistema de gerenciamento de fornecedores, produçã
    * Alterar informações de fornecedor e produto;
    * Apresentar informações de venda.
 
-Esses são exemplos de alguns requisitos que o projeto apresenta, para se aprofundar na parte de requisitos como suas especificações e alguns requisitos não funcionais acesse [Requisitos](https://github.com/Kaiquemarques00/Fazenda_urbana_2/blob/main/Requisitos/Requisitos_Fazenda_Urbana.pdf)
+Esses são exemplos de alguns requisitos que o projeto apresenta, para se aprofundar na parte de requisitos como suas especificações e alguns requisitos não funcionais acesse [Requisitos](https://github.com/Kaiquemarques00/Fazenda_urbana_2/blob/main/Requisitos/Requisitos_Fazenda_Urbana.pdf).
 
 ## Caso de uso
 
 O caso de uso foi elaborado de acordo com os requisitos que foram documentados na seção passada, ou acima, ele apresenta os casos de uso iniciais do software e especificações dos casos de usos.
+![Use_Case](https://github.com/Kaiquemarques00/Fazenda_urbana_2/blob/main/Use_case/v1.0/Caso_de_uso.png)
