@@ -10,7 +10,8 @@ A aplicação consiste em um sistema de gerenciamento de fornecedores, produçã
 
 # Documentação
 
-## Backlog
+## Product Backlog
 
-    * [Product-Backlog](https://github.com/Kaiquemarques00/Fazenda-Urbana/tree/main/product_backlog/v1.0)
-    * [Sprint-Backlog](https://github.com/Kaiquemarques00/Fazenda-Urbana/tree/main/sprint_backlog/v1.0)
+
+! [Product-Backlog](https://github.com/Kaiquemarques00/Fazenda_urbana_2/blob/main/Product_Backlog/v2.0/Product_backlog.png) 
+   
