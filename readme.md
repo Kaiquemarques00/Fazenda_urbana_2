@@ -13,5 +13,5 @@ A aplicação consiste em um sistema de gerenciamento de fornecedores, produçã
 ## Product Backlog
 
 
-! [Product-Backlog](https://github.com/Kaiquemarques00/Fazenda_urbana_2/blob/main/Product_Backlog/v2.0/Product_backlog.png) 
+   ![Product-Backlog](https://github.com/Kaiquemarques00/Fazenda_urbana_2/blob/main/Product_Backlog/v2.0/Product_backlog.png) 
    
