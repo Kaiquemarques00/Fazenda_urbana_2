@@ -27,4 +27,5 @@ Esses são exemplos de alguns requisitos que o projeto apresenta, para se aprofu
 ## Caso de uso
 
 O caso de uso foi elaborado de acordo com os requisitos que foram documentados na seção passada, ou acima, ele apresenta os casos de uso iniciais do software e especificações dos casos de usos.
+
 ![Use_Case](https://github.com/Kaiquemarques00/Fazenda_urbana_2/blob/main/Use_case/v1.0/Caso_de_uso.png)
